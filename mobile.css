@@ -8,7 +8,11 @@
 	/*oculto el menu mobile*/
 	display:none;
 }
-
+.nav button {
+	background: none;
+	border:none;
+	cursor:pointer;
+}
 .nav-mobile {
 	list-style-type:none;
 	background-color:purple;
